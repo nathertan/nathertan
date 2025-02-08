@@ -1,5 +1,5 @@
 ## Heya! 👋
-My peers calls me Dihyan, I am a graduate from Binus University, looking for new jobs and opportunity in Front-end Development field!
+My peers calls me Dihyan, I am a fresh graduate looking for new jobs and opportunity in Front-end Development field!
 
 - 🔭 I’m currently working on a discord bot
 - ❤️ I love playing games, reading, and playing music
