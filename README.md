@@ -1,7 +1,7 @@
 ## Heya! 👋
 My peers calls me Dihyan, I am a fresh graduate looking for new jobs and opportunity in Front-end Development field!
 
-- 🔭 I’m currently working on a discord bot
+- 🔭 I’m currently learning react and typescript
 - ❤️ I love playing games, reading, and playing music
 - 📫 How to reach me : [email me](ndihyan@gmail.com) / [find me on Linkedin](https://www.linkedin.com/in/nathanael-dihyan/)
 
