@@ -2,7 +2,7 @@
 My peers calls me Dihyan, I am a fresh graduate looking for new jobs and opportunity in Front-end Development field!
 
 - 🔭 I’m currently learning react and typescript also docker, soon Three.JS!
-- ❤️ I love playing games, reading, and playing music
+- ❤️ I love tech, playing games, reading, and playing music
 - 📫 How to reach me : [email me](ndihyan@gmail.com) / [find me on Linkedin](https://www.linkedin.com/in/nathanael-dihyan/)
 
 
